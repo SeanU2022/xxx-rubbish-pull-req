@@ -1,5 +1,0 @@
-CSS LAYOUT: MOD #quiz-introduction MOD #quiz-div ADD #quiz-div .button ADD #quizscores-button-container
-QUIZSCORES.HTML: ADD #quizscores-button-container 
-QUESTIONS.JS: MOD arrays on 3 lines, comments
-MAIN.JS: ADD BETTER USER EXP: finalScore = finalScore + 1;
-CSS @media: ADD quizscores MOD index
